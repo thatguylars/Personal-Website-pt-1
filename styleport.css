@@ -1,0 +1,23 @@
+section{
+    background-color: black;
+    color: aliceblue;
+    width: 50%;
+    margin: auto auto;
+    border: 5px solid red;}
+
+h1{background-color: crimson;
+text-underline-position: below;
+color: aliceblue;
+text-align: center;}
+
+h2{background-color: aqua;
+    text-align: center;}
+p{
+    color: aliceblue;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
