@@ -1,7 +1,7 @@
 body{
-    background-color: blue;
+    background-color: rgb(32, 96, 179);
 }
-div {
+/* div {
     
         background-color: rgb(136, 148, 155);
         margin: auto;
@@ -12,13 +12,43 @@ div {
         font-size: 20px;
         padding: 20px;
     
+  } */
+   .top{
+    background-color: rgb(136, 148, 155);
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    display: flexbox;
+    font-size: 20px;
+    padding: 10px;
+   }
+  .portfolio{
+    background-color: rgb(136, 148, 155);
+        margin: auto;
+        width: 84%;
+        padding: 10px;
+        display: flex;
+        font-size: 20px;
+        padding: 20px;
+  }
+  .about{
+    
+    margin: auto;
+    width: 64%;
+    
+    padding: 10px;
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
   }
   .img-1{
+    display: flex;
     margin: auto;
     width: 18%;
     display: inline-block;
     font-size: 20px;
     padding: 20px;
+    
 }
 
 ul {
@@ -30,7 +60,7 @@ ul {
   }
   
   li {
-    float: left;
+    float: right;
   }
   
   li a {
@@ -45,4 +75,13 @@ ul {
   li a:hover {
     background-color: #111;
   }
-  
+  .team{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+ 
