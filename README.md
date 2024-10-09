@@ -1,2 +1,7 @@
 # Personal-Website-pt-1
-working with damien and adrian
+
+## Website Includes:
+### HTML, CSS, and Javascript
+
+## Workload:
+### Delegated via Github board
